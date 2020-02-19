@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-#### [Day    1 : Syllabus]](./README.md)
+#### [Day    1 : Syllabus](./README.md)
 #### [Day    2 Accounting Basics - Accounting Overview - Accounting Basics](./README.md)
 #### [Day    3 Inisiasi & Setting](./README.md)
 #### [Day    4 Card of Account](./README.md)
