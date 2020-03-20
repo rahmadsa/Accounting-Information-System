@@ -1,21 +1,21 @@
-# ERP - General Ledger and Accounting Module
+# Sistem Informasi Akuntansi
 
 ### Table of Contents
 
-#### [Day    1 : Syllabus](./README.md)
-#### [Day    2 Accounting Basics - Accounting Overview - Accounting Basics](./README.md)
-#### [Day    3 Inisiasi & Setting](./README.md)
-#### [Day    4 Card of Account](./README.md)
-#### [Day    5  Payment Follow up](./README.md)
-#### [Day    6 Bank Statements and Reconciliation](./README.md)
-#### [Day    7  Reconciliation of Invoices with a Cash Discount](./README.md)
-#### [Day    8 Mid Test](./README.md)
-#### [Day    9 Vendor Bills Batch Payments](./README.md) 
-#### [Day    10  Batch Deposit of Checks](./README.md)
-#### [Day    11 Vendor Bills and Rounding Methods](./README.md)
-#### [Day    12 Multi-currencies](./README.md)
-#### [Day    13 Reports and Financial Statements & Analytic Accounting](./README.md)
-#### [Day    14 Inventory Valuation](./README.md)
-#### [Day    15 Accrual Acounting In Assets Management  Depreciation & Deferred Revenues Recognition](./README.md)
-#### [Day    16 Final Test](./README.md)
+#### [Day    1 Syllabus](./README.md)
+#### [Day    2 Pengantar Akuntansi Dan Bisnis](./day1.md)
+#### [Day    3 Analisis Transaksi Akuntansi](./day2.md)
+#### [Day    4 Konsep Penandingan Dan Penyesuaian Proses Akuntansi](./day3.md)
+#### [Day    5 Penyelesaian Proses Akuntansi](./day4.md)
+#### [Day    6 Pengenalan Sistem Informasi Akuntansi Dan Siklusnya](./day5.md)
+#### [Day    7 Analisis dan Perancangan Sistem Informasi Akuntansi](./day6.md)
+#### [Day    8 Mid Test](./midtest.md)
+#### [Day    9 Siklus Dan Analisa Pemrosesan Sistem dan Bukti Transaksi](./day8.md) 
+#### [Day    10 Analisa Dan Pemrosesan Siklus Pendapatan](./day9.md)
+#### [Day    11 Analisa Dan Pemrosesan Siklus Pengeluaran](./day10.md)
+#### [Day    12 Analisa Dan Pemrosesan Siklus Produksi](./day11.md)
+#### [Day    13 Analisa Dan Pemrosesan Siklus Keuangan](./day12.md)
+#### [Day    14 Analisa Dan Pemrosesan Siklus Pelaporan](./day13.md)
+#### [Day    15 Implementasi Sistem Informasi Akuntansi](./day14.md)
+#### [Day    16 Final Test](./finaltest.md)
 
