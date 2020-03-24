@@ -1,5 +1,7 @@
 ## Sistem Informasi Akuntansi 
 
+Sistem Informasi Akuntansi Untuk Jurusan Sistem Informasi
+
 ### Daftar Isi
 
 #### [Bab 1  : Perkenalan dan Silabi](./README.md)
