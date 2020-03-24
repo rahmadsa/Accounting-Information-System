@@ -6,7 +6,7 @@ Sistem Informasi Akuntansi Untuk Jurusan Sistem Informasi
 
 #### [Bab 1  : Perkenalan dan Silabi](./README.md)
 #### [Bab 2  : Pengantar Akuntansi Dan Bisnis](./bab2.ipynb)
-#### [Bab 3  : Transaksi Bisnis Persamaan Akuntansi](./bab3.ipynb)
+#### [Bab 3  : Transaksi Bisnis Dan Persamaan Akuntansi](./bab3.ipynb)
 #### [Bab 4  : Analisis Transaksi](./bab4.ipynb)
 #### [Bab 5  : Sistem informasi akuntansi Dan Siklusnya](./bab5.ipynb)
 #### [Bab 6  : Analisa dan Perancangan Sistem Informasi Akuntansi](./bab6.ipynb)
