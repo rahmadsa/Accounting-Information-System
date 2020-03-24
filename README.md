@@ -1,21 +1,20 @@
-# Sistem Informasi Akuntansi
+## Sistem Informasi Akuntansi 
 
-### Table of Contents
+### Daftar Isi
 
-#### [Day    1 Syllabus](./README.md)
-#### [Day    2 Pengantar Akuntansi Dan Bisnis](./day1.md)
-#### [Day    3 Analisis Transaksi Akuntansi](./day2.md)
-#### [Day    4 Konsep Penandingan Dan Penyesuaian Proses Akuntansi](./day3.md)
-#### [Day    5 Penyelesaian Proses Akuntansi](./day4.md)
-#### [Day    6 Pengenalan Sistem Informasi Akuntansi Dan Siklusnya](./day5.md)
-#### [Day    7 Analisis dan Perancangan Sistem Informasi Akuntansi](./day6.md)
-#### [Day    8 Mid Test](./midtest.md)
-#### [Day    9 Siklus Dan Analisa Pemrosesan Sistem dan Bukti Transaksi](./day8.md) 
-#### [Day    10 Analisa Dan Pemrosesan Siklus Pendapatan](./day9.md)
-#### [Day    11 Analisa Dan Pemrosesan Siklus Pengeluaran](./day10.md)
-#### [Day    12 Analisa Dan Pemrosesan Siklus Produksi](./day11.md)
-#### [Day    13 Analisa Dan Pemrosesan Siklus Keuangan](./day12.md)
-#### [Day    14 Analisa Dan Pemrosesan Siklus Pelaporan](./day13.md)
-#### [Day    15 Implementasi Sistem Informasi Akuntansi](./day14.md)
-#### [Day    16 Final Test](./finaltest.md)
+#### [Bab 1  : Perkenalan dan Silabi](./README.md)
+#### [Bab 2  : Pengantar Akuntansi Dan Bisnis](./bab2.ipynb)
+#### [Bab 3  : Transaksi Bisnis Persamaan Akuntansi](./bab3.ipynb)
+#### [Bab 4  : Analisis Transaksi](./bab4.ipynb)
+#### [Bab 5  : Sistem informasi akuntansi Dan Siklusnya](./bab5.ipynb)
+#### [Bab 6  : Analisa dan Perancangan Sistem Informasi Akuntansi](./bab6.ipynb)
+#### [Bab 7  : Siklus Dalam Sistem Akuntansi](./bab7.ipynb)
+#### [Mid Test](./mid.ipynb)
+#### [Bab 8  : Siklus Dan Analisa Proses Akuntansi I](./bab8.ipynb)
+#### [Bab 10 : Siklus Dan Analisa Proses Akuntansi II](./bab9.ipynb)
+#### [Bab 11 : Tahapan, Metode dan Teknik Dalam Membangun Sistem  Informasi Akuntansi](./bab10.ipynb)
+#### [Bab 12 : Pembuatan Model Aplikasi Sistem Informasi Akuntansi Sederhana I](./bab11.ipynb)
+#### [Bab 13 : Pembuatan Model Aplikasi Sistem Informasi Akuntansi Sederhana II ](./bab12.ipynb)
+#### [Bab 14 : Pembuatan Model Aplikasi Sistem Informasi Akuntansi Sederhana III ](./bab13.ipynb)
+#### [Final Test](./final.ipynb)
 
